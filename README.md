@@ -1,6 +1,8 @@
 # Pairs-Relation-Machine-Learning-Neural-Network
 5 Neural Networks architecture, 3 types of datasets, 3 pre-processing pipelines to use.
 
+READ the PDF for more information.
+
 About:
 
 This Project is about taking pairs of sentences or any other combination of pairs (X1…. Xn, Y2…. Ym) and learn the relation between the pairs.
