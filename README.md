@@ -14,6 +14,7 @@ The System can work and generate pairs from 3 types of datasets:
 1. Only Positive Pairs (Dynamic Generating Negative samples)
 2. Mixed Positive and Negative (Organize Positive and Negative samples).
 3. Already Organized Pairs with class. (No change needed)
+4. 
 The System have 3 pre-processing pipelines to use, from soft preprocessing to hard preprocessing.
 The System 5 Neural Networks Models, some work better some less, it more depends on the data itself.
 You can save all the preprocessing files and load to train on any Neural Model you want.
