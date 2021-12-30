@@ -1,0 +1,8 @@
+num of recipe:500
+num of description:465
+num of review:1562
+left vector size:256
+right vector size:333
+pos:1000
+neg:1000
+vocab size:17152
